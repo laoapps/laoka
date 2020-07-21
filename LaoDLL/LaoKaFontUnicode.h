@@ -1,0 +1,72 @@
+#define LaoKa_Unicode_G 3713
+#define	LaoKa_Unicode_M 3745
+#define LaoKa_Unicode_K 3716
+#define	LaoKa_Unicode_J 3720	
+#define	LaoKa_Unicode_C 3722
+#define	LaoKa_Unicode_S 3754
+#define	LaoKa_Unicode_Y 3746
+#define	LaoKa_Unicode_R 3747
+#define	LaoKa_Unicode_D 3732
+#define	LaoKa_Unicode_T 3733
+#define	LaoKa_Unicode_L 3749
+#define	LaoKa_Unicode_V 3751
+#define	LaoKa_Unicode_N 3737
+#define	LaoKa_Unicode_B 3738
+#define	LaoKa_Unicode_P 3739
+#define	LaoKa_Unicode_F 3743
+#define	LaoKa_Unicode_H 3758
+#define	LaoKa_Unicode__L 3772
+
+//Multi Consonants
+#define	LaoKa_Unicode_KH 3714
+#define	LaoKa_Unicode_NG 3719
+#define	LaoKa_Unicode_TH 3735
+#define	LaoKa_Unicode_THH 3734
+#define	LaoKa_Unicode_HH 3755
+#define	LaoKa_Unicode_FH 3741
+#define	LaoKa_Unicode_PH 3742
+#define	LaoKa_Unicode_PHH 3740
+#define	LaoKa_Unicode_OH 3757
+#define	LaoKa_Unicode_NH 3725	
+#define	LaoKa_Unicode_HN 3804
+#define	LaoKa_Unicode_HM 3805
+
+//Vowels
+#define	LaoKa_Unicode_A 3760
+#define LaoKa_Unicode_AA 3762
+#define	LaoKa_Unicode_I 3764
+#define LaoKa_Unicode_II 3765
+#define LaoKa_Unicode_W 3766
+#define LaoKa_Unicode_WW 3767
+#define LaoKa_Unicode_U 3768
+#define LaoKa_Unicode_UU 3769
+#define LaoKa_Unicode_E 3776
+#define LaoKa_Unicode_EE 3777
+#define LaoKa_Unicode_OW 3778
+#define LaoKa_Unicode_O 3789
+#define	LaoKa_Unicode_AY 3780
+#define LaoKa_Unicode_AAY 3779
+#define LaoKa_Unicode_AW 3763
+#define LaoKa_Unicode_AE 3761
+#define LaoKa_Unicode_OO 3771
+#define LaoKa_Unicode_Q 3773
+//Lao Number
+#define LaoKa_Unicode_Zero 3792
+#define LaoKa_Unicode_One 3793
+#define LaoKa_Unicode_Two 3794
+#define LaoKa_Unicode_Three 3795
+#define LaoKa_Unicode_Four 3796
+#define LaoKa_Unicode_Five 3797
+#define LaoKa_Unicode_Six 3798
+#define LaoKa_Unicode_Seven 3799
+#define LaoKa_Unicode_Eight 3800
+#define LaoKa_Unicode_Nine 3801
+//Marks
+#define LaoKa_Unicode_MarkOne 3784
+#define LaoKa_Unicode_MarkTwo 3785
+#define LaoKa_Unicode_MarkThree 3786
+#define LaoKa_Unicode_MarkFour 3787
+#define LaoKa_Unicode_MarkRedundant 3788
+#define LaoKa_Unicode_MarkAgain 3782
+#define LaoKa_Unicode_ExtraSign 9676
+#define LaoKa_Unicode_LaoKipSign 8365

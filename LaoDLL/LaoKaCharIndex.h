@@ -1,0 +1,72 @@
+#define LaoKa_Char_IndexOf_G 0
+#define	LaoKa_Char_IndexOf_M 1
+#define LaoKa_Char_IndexOf_K 2
+#define	LaoKa_Char_IndexOf_J 3	
+#define	LaoKa_Char_IndexOf_C 4
+#define	LaoKa_Char_IndexOf_S 5
+#define	LaoKa_Char_IndexOf_Y 6
+#define	LaoKa_Char_IndexOf_R 7
+#define	LaoKa_Char_IndexOf_D 8
+#define	LaoKa_Char_IndexOf_T 9
+#define	LaoKa_Char_IndexOf_L 10
+#define	LaoKa_Char_IndexOf_V 11
+#define	LaoKa_Char_IndexOf_N 12
+#define	LaoKa_Char_IndexOf_B 13
+#define	LaoKa_Char_IndexOf_P 14
+#define	LaoKa_Char_IndexOf_F 15
+#define	LaoKa_Char_IndexOf_H 16
+#define	LaoKa_Char_IndexOf__L 17
+
+//Multi Consonants
+#define	LaoKa_Char_IndexOf_KH 18
+#define	LaoKa_Char_IndexOf_NG 19
+#define	LaoKa_Char_IndexOf_TH 20
+#define	LaoKa_Char_IndexOf_THH 21
+#define	LaoKa_Char_IndexOf_HH 22
+#define	LaoKa_Char_IndexOf_FH 23
+#define	LaoKa_Char_IndexOf_PH 24
+#define	LaoKa_Char_IndexOf_PHH 25
+#define	LaoKa_Char_IndexOf_OH 26
+#define	LaoKa_Char_IndexOf_NH 27	
+#define	LaoKa_Char_IndexOf_HN 28
+#define	LaoKa_Char_IndexOf_HM 29
+
+//Vowels
+#define	LaoKa_Char_IndexOf_A 30
+#define LaoKa_Char_IndexOf_AA 31
+#define	LaoKa_Char_IndexOf_I 32
+#define LaoKa_Char_IndexOf_II 33
+#define LaoKa_Char_IndexOf_W 34
+#define LaoKa_Char_IndexOf_WW 35
+#define LaoKa_Char_IndexOf_U 36
+#define LaoKa_Char_IndexOf_UU 37
+#define LaoKa_Char_IndexOf_E 38
+#define LaoKa_Char_IndexOf_EE 39
+#define LaoKa_Char_IndexOf_OW 40
+#define LaoKa_Char_IndexOf_O 41
+#define	LaoKa_Char_IndexOf_AY 42
+#define LaoKa_Char_IndexOf_AAY 43
+#define LaoKa_Char_IndexOf_AW 44
+#define LaoKa_Char_IndexOf_AE 45
+#define LaoKa_Char_IndexOf_OO 46
+#define LaoKa_Char_IndexOf_Q 47
+//Lao Number
+#define LaoKa_Char_IndexOf_Zero 48
+#define LaoKa_Char_IndexOf_One 49
+#define LaoKa_Char_IndexOf_Two 50
+#define LaoKa_Char_IndexOf_Three 51
+#define LaoKa_Char_IndexOf_Four 52
+#define LaoKa_Char_IndexOf_Five 53
+#define LaoKa_Char_IndexOf_Six 54
+#define LaoKa_Char_IndexOf_Seven 55
+#define LaoKa_Char_IndexOf_Eight 56
+#define LaoKa_Char_IndexOf_Nine 57
+//Marks
+#define LaoKa_Char_IndexOf_MarkOne 58
+#define LaoKa_Char_IndexOf_MarkTwo 59
+#define LaoKa_Char_IndexOf_MarkThree 60
+#define LaoKa_Char_IndexOf_MarkFour 61
+#define LaoKa_Char_IndexOf_MarkRedundant 62
+#define LaoKa_Char_IndexOf_MarkAgain 63
+#define LaoKa_Char_IndexOf_ExtraSign 64
+#define LaoKa_Char_IndexOf_LaoKipSign 65

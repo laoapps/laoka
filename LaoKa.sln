@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LaoDLL", "LaoDLL\LaoDLL.vcproj", "{FF914587-279C-4AF3-B845-F7179DDD71E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LaoKa", "LaoKa\LaoKa.vcproj", "{5CF29C64-6D1E-4853-A1E6-31509E90F105}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FF914587-279C-4AF3-B845-F7179DDD71E6} = {FF914587-279C-4AF3-B845-F7179DDD71E6}
+	EndProjectSection
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LaoKaBeta1", "LaoKaInstallation\LaoKaInstallation.vdproj", "{40AD87F9-5AF5-4952-95CF-53DA07FAD704}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "LaoKaBetaWithSource", "LaoKaBetaWithSource\LaoKaBetaWithSource.vdproj", "{2DCF9FC5-A77A-4EBE-8468-37EEB5FEAB9B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF914587-279C-4AF3-B845-F7179DDD71E6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{FF914587-279C-4AF3-B845-F7179DDD71E6}.Debug|Win32.Build.0 = Debug|Win32
+		{FF914587-279C-4AF3-B845-F7179DDD71E6}.Release|Win32.ActiveCfg = Release|Win32
+		{FF914587-279C-4AF3-B845-F7179DDD71E6}.Release|Win32.Build.0 = Release|Win32
+		{5CF29C64-6D1E-4853-A1E6-31509E90F105}.Debug|Win32.ActiveCfg = Debug|Win32
+		{5CF29C64-6D1E-4853-A1E6-31509E90F105}.Debug|Win32.Build.0 = Debug|Win32
+		{5CF29C64-6D1E-4853-A1E6-31509E90F105}.Release|Win32.ActiveCfg = Release|Win32
+		{5CF29C64-6D1E-4853-A1E6-31509E90F105}.Release|Win32.Build.0 = Release|Win32
+		{40AD87F9-5AF5-4952-95CF-53DA07FAD704}.Debug|Win32.ActiveCfg = Debug
+		{40AD87F9-5AF5-4952-95CF-53DA07FAD704}.Release|Win32.ActiveCfg = Release
+		{2DCF9FC5-A77A-4EBE-8468-37EEB5FEAB9B}.Debug|Win32.ActiveCfg = Debug
+		{2DCF9FC5-A77A-4EBE-8468-37EEB5FEAB9B}.Release|Win32.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
