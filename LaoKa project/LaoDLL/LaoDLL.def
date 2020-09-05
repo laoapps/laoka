@@ -1,0 +1,16 @@
+; LaoDLL.def : Declares the module parameters for the DLL.
+
+LIBRARY      "LaoDLL"
+
+EXPORTS
+    ; Explicit exports can go here    
+	installhook
+	UnHook
+	DisplayUnicodeMode 
+	DisplayIndex
+	USEFONTTYPE
+	SETUNICODEMODE
+	UNICODE_MODE
+	destroyPopDlg
+	createPopDlg
+	LAOKA_CURRENT_FONT_INDEX

@@ -1,0 +1,72 @@
+#define LaoKa_2000_G 192
+#define	LaoKa_2000_M 211
+#define LaoKa_2000_K 194
+#define	LaoKa_2000_J 196	
+#define	LaoKa_2000_C 198
+#define	LaoKa_2000_S 197
+#define	LaoKa_2000_Y 212
+#define	LaoKa_2000_R 213
+#define	LaoKa_2000_D 200
+#define	LaoKa_2000_T 201
+#define	LaoKa_2000_L 214
+#define	LaoKa_2000_V 215
+#define	LaoKa_2000_N 204
+#define	LaoKa_2000_B 205
+#define	LaoKa_2000_P 206
+#define	LaoKa_2000_F 210
+#define	LaoKa_2000_H 221
+#define	LaoKa_2000__L 240
+
+//Multi Consonants
+#define	LaoKa_2000_KH 193
+#define	LaoKa_2000_NG 195
+#define	LaoKa_2000_TH 203
+#define	LaoKa_2000_THH 202
+#define	LaoKa_2000_HH 216
+#define	LaoKa_2000_FH 208
+#define	LaoKa_2000_PH 209
+#define	LaoKa_2000_PHH 207
+#define	LaoKa_2000_OH 220
+#define	LaoKa_2000_NH 199	
+#define	LaoKa_2000_HN 217
+#define	LaoKa_2000_HM 218
+
+//Vowels
+#define	LaoKa_2000_A 223
+#define LaoKa_2000_AA 224
+#define	LaoKa_2000_I 233
+#define LaoKa_2000_II 234
+#define LaoKa_2000_W 235
+#define LaoKa_2000_WW 236
+#define LaoKa_2000_U 238
+#define LaoKa_2000_UU 239
+#define LaoKa_2000_E 226
+#define LaoKa_2000_EE 227
+#define LaoKa_2000_OW 228
+#define LaoKa_2000_O 231
+#define	LaoKa_2000_AY 230
+#define LaoKa_2000_AAY 229
+#define LaoKa_2000_AW 225
+#define LaoKa_2000_AE 232
+#define LaoKa_2000_OO 237
+#define LaoKa_2000_Q 222
+//Lao Number
+#define LaoKa_2000_Zero 246
+#define LaoKa_2000_One 247
+#define LaoKa_2000_Two 248
+#define LaoKa_2000_Three 249
+#define LaoKa_2000_Four 250
+#define LaoKa_2000_Five 251
+#define LaoKa_2000_Six 252
+#define LaoKa_2000_Seven 253
+#define LaoKa_2000_Eight 254
+#define LaoKa_2000_Nine 255
+//Marks
+#define LaoKa_2000_MarkOne 241
+#define LaoKa_2000_MarkTwo 242
+#define LaoKa_2000_MarkThree 243
+#define LaoKa_2000_MarkFour 244
+#define LaoKa_2000_MarkRedundant 245
+#define LaoKa_2000_MarkAgain 402
+#define LaoKa_2000_ExtraSign 120
+#define LaoKa_2000_LaoKipSign 36
